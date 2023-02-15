@@ -1,7 +1,7 @@
 package com.jpa.business.Eat;
 
 /**
- * 抽象接口
+ * 抽象接口1
  */
 public interface Eatable {
     /**
